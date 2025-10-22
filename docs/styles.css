@@ -1,0 +1,56 @@
+body {
+background-image: url(bocetos-usar-despues/cielo.png);
+background-repeat: no-repeat;
+background-size: 100%;
+margin: 0px;
+
+}
+
+h1 {
+color: white;
+font-size: 50px;
+position: absolute;
+left: 25vw;
+
+}
+
+h2 {
+color: azure;
+font-size: 30px;
+position: absolute;
+left: 20vw;
+bottom: 75vh;
+
+}
+
+.suelo {
+width: 100vw;
+position: absolute; 
+bottom: -50vh;
+overflow: hidden;
+}
+
+.mxshouse {
+position: absolute;
+bottom: -25vh;
+height: 100px;
+width: 75px;
+left:65vw;
+
+}
+
+.doors {
+position: absolute;
+bottom: -10vh;
+height: 100px;
+width: 75px;
+left: 55vw;
+
+}
+
+.sun {
+position: absolute;
+bottom: 30vh;
+left: 40vw;
+
+}

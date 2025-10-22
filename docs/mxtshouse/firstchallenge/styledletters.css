@@ -1,0 +1,38 @@
+body {
+    background-image: url("bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: azure;
+    font-size: 70px;
+    font-weight: 300;
+    background-color: rgba(106, 48, 149, 0.48);
+
+}
+
+p {
+    color: azure;
+    font-size: 40px;
+    font-weight: 200;
+    background-color: rgba(106, 48, 149, 0.48);
+
+}
+
+div {
+    color: azure;
+    font-size: 70px;
+    font-weight: 400;
+    background-color: #931daa;
+
+}
+
+input {
+    color:#f2ebff;
+    background-color: rgba(119, 55, 230, 1);
+    height: 100px;
+    width: 100px;
+    border: #fbf9ff;
+    font-size: 50px;
+}

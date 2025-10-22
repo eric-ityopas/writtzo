@@ -1,0 +1,40 @@
+ body {
+background-image: url("azulflores.jpg");
+background-size: 100%;
+
+ }
+
+ h1 {
+color: #f0ebf3;
+font-family: 'Courier New', Courier, monospace;
+text-shadow: 4px 3px 0px rgba(144, 117, 243, 0.48);
+text-align: center ;
+font-size: 40px;
+background-color: rgba(42, 20, 141, 0.4);
+ }
+
+ h2 {
+color: #f3e7ed;
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+text-shadow: 4px 3px 0px rgba(144, 117, 243, 0.48);
+background-color: rgba(42, 20, 141, 0.4);
+ }
+
+ p {
+    color: #f3e7ed;
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+text-shadow: 4px 3px 0px rgba(144, 117, 243, 0.48);
+background-color: rgba(42, 20, 141, 0.4);
+ font-weight: 600;
+ }
+
+ a {
+    color: #f0e1f3;
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+text-shadow: 4px 3px 0px rgba(144, 117, 243, 0.48);
+ background-color: rgba(42, 20, 141, 0.4);
+ font-weight: 600;
+ }

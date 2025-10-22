@@ -1,0 +1,39 @@
+img {
+size: 50%;
+ }
+
+ h1 {
+text-shadow: 6px 4px 0px rgba(255,248,0,0.64);
+color: #ecedd5;
+background-color: rgba(97, 88, 37, 0.47);
+text-align: center;
+font-family: Courier, monospace;
+ }
+
+ h2{
+text-shadow: 6px 4px 0px rgba(255,248,0,0.64);
+color: #ecedd5;
+background-color: rgba(97, 88, 37, 0.47);
+text-align: center;
+font-family: Courier, monospace;
+
+ }
+
+ p {
+text-shadow: 6px 4px 0px rgba(255,248,0,0.64);
+color: #ecedd5;
+background-color: rgba(97, 88, 37, 0.47);
+text-align: center;
+font-family: Courier, monospace;
+
+ }
+
+body {
+    background-image: url("fondo.png");
+background-size: 100%; 
+}
+
+button {
+color:rgba(107, 96, 40, 0.47); background-color: #ecedd5;
+
+}
