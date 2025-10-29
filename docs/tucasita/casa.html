@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hogar dulce hogar</title>
+    <link rel="stylesheet" href="casa.css">
+    <script src="casa.js"></script>
+</head>
+<body>
+    <div class="dormir">
+        <div class="cama" id="dormir">
+            <button onclick="dormir()">
+                <img src="sprites/cama.png" alt="cama"></img>
+            </button>
+        </div>
+    </div>
+    <div id="durmiendo" class="durmiendo">
+        <a class="sonar" href="dream/sueño.html">soñar?</a>
+        <button onclick="despertar()" class="despertar">despertar.</button>
+    </div>
+
+    <div class="ventana" id="ver">
+        <buttton onclick="verAfuera()">
+            <img src="sprites/ventana.png" alt="ventana"></img>
+        </buttton>
+    </div>
+
+    <div class="mesita" id="mesita">
+        <img src="sprites/mesa.png" alt="mesita"></img>
+        <div class="silla" id="silla">
+            <img src="sprites/silla.png" alt="silla"></img>
+            <div class="interfaz-de-notas" id="int-de-notas">
+                <div class="nota" id="nota">
+                    <input type="text" id="nota-text" placeholder="Escribe tu nota">
+                    <button id="guardar-nota" onclick="guardarNota()">Guardar</button>
+                </div>
+                <div class="ultima-nota" id="ult-nota">
+                    <p id="ult-nota-text"></p>
+                </div>
+                <div class="cerrar-interfaz" id="cerrar-interfaz">
+                    <button onclick="cerrarInterfaz()">Cerrar</button>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,76 @@
+.dormir {
+    position: absolute;
+    bottom: 2vh;
+    left: 5vw;
+    width: 430px;
+    height: 250px;
+    z-index: 0;
+}   
+
+.durmiendo {
+position: absolute;
+top: -10vh;
+width: 1325px;
+height: 650px;
+background-color: black;
+color: black;
+border: 5px outset white;
+z-index: 3;
+background-image: url("sprites/durmiendo.png");
+visibility: hidden;
+}
+
+.sonar {
+position: absolute;
+top: 80vh;
+left: 43vw;
+color: aliceblue;
+z-index: 4;
+
+}
+
+.despertar {
+position: absolute;
+top: 75vh;
+left: 43vw;
+color: aliceblue;
+z-index: 4;
+background-color: black;
+
+}
+
+.ventana {
+    position: absolute;
+    bottom: 20vh;
+    left: 30vw;
+    width: 300px;
+    height: 300px;
+    z-index: 0;
+}   
+
+.mesita {
+    position: absolute;
+    bottom: 45vh;
+    left: 50vw;
+    width: 300px;
+    height: 100px;
+    z-index: 0;
+}   
+
+.silla {
+    position: absolute;
+    bottom: -35vh;
+    left: 5vw;
+    width: 300px;
+    height: 300px;
+    z-index: 1;
+}   
+
+.interfaz-de-notas {
+    position: absolute;
+    bottom: 60vh;
+    left: 30vw;
+    height: 10vh;
+    width: 80vw;
+    z-index: 2;
+}
