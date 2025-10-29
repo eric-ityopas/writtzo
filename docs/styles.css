@@ -54,3 +54,30 @@ bottom: 30vh;
 left: 40vw;
 
 }
+
+.arthall {
+position: absolute;
+bottom: -30vh;
+left: 20vw;
+width: 105px;
+height: 92px;
+
+}
+
+.thelab {
+    position: absolute;
+    bottom: -50vh;
+    left: 25vw;
+}
+
+.garden {
+    position: absolute;
+    bottom: 0vh;
+    left: 45vw
+}
+
+.home {
+    position: absolute;
+    bottom: -50vh;
+    left: 45vw;
+}

@@ -73,4 +73,9 @@ background-color: black;
     height: 10vh;
     width: 80vw;
     z-index: 2;
+    visibility: hidden;
+}
+
+body {
+background-color: rgb(108, 108, 121);
 }
