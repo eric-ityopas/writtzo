@@ -81,3 +81,11 @@ height: 92px;
     bottom: -50vh;
     left: 45vw;
 }
+
+.ahorcado {
+    position: absolute;
+    bottom: -25vh;  
+    left: 45vw;
+    width: 125px;
+    height: 125px;
+}
